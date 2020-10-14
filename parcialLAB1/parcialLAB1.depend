@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1602682620 source:c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\parciallab1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1602683148 c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\parciallab1\validaciones.h
+
+1602682620 source:c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\parciallab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"validaciones.h"
+
+1602683158 c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\parciallab1\mascotas.h
+
+1602682620 source:c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\parciallab1\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"validaciones.h"
+
